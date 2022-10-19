@@ -1,0 +1,6 @@
+/.idea/
+/.devspace/
+/flask-backend/.devspace/
+/flask-backend/venv/
+/react-frontend/frontend-app/.devspace/
+/react-frontend/frontend-app/node_modules/
