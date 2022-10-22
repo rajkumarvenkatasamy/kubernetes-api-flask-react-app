@@ -5,7 +5,7 @@ metadata:
   name: rbac-for-cluster-resources
 rules:
   - apiGroups: [""]
-    resources: ["pods", "namespaces"]
+    resources: ["namespaces"]
     verbs: ["list", "create", "delete"]
 ---
 kind: ClusterRoleBinding
